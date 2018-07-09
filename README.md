@@ -9,6 +9,8 @@ Git  tutorial
    
 4. Make changes
 *. git pull
+
+
 5. Git add .
 6. Git commit -m “comments”
 7. Git push
