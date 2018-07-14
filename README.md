@@ -13,6 +13,15 @@
 5. Change directory to local folder
 ``` $ cd GitHub_repository_link ```
    
+<<<<<<< HEAD
+4. Make changes
+*. git pull
+
+
+5. Git add .
+6. Git commit -m “comments”
+7. Git push
+=======
 ### Stores the current contents  
 1. Make changes in local folder
 2. Stage the file for commit to your local repository.
@@ -57,3 +66,4 @@ When collaborate with teammates, in order to propose changes to the upstream, or
 6. Merge the changes from upstream/master into your local master branch. This brings your fork's master branch into sync with the upstream repository, without losing your local changes  
 ``` $ git merge upstream/master ```
 
+>>>>>>> upstream/master
