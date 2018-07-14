@@ -43,7 +43,7 @@ $ git add -u  # add updated files to git version control
 ### Keep your fork synced    
 When collaborate with teammates, in order to propose changes to the upstream, or original, repository. In this case, it's good practice to regularly sync your fork with the upstream repository.  
 
-#####Step 1: [Configured remote repository for your fork](https://help.github.com/articles/fork-a-repo/) (one time)  
+##### Step 1: [Configured remote repository for your fork](https://help.github.com/articles/fork-a-repo/) (one time)  
 ##### Step 2: [Syncing a fork](https://help.github.com/articles/syncing-a-fork/)  
 1. Open Terminal/command prompt.
 2. Change the current working directory to your local project.  
